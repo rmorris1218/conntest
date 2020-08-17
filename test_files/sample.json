@@ -1,0 +1,10 @@
+{
+    "tests": [
+        {
+            "endpoint": "1.1.1.1",
+            "proto_ports": [
+                {"port": 53, "protocol": "tcp"}
+            ]
+        }
+    ]
+}
